@@ -17,9 +17,14 @@ A simple Telegram userbot based on Telethon .
 
 
 
-## How to deploy catuserbot
-### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mr-confused/nekopack)
+# CatUserbot / PepeCat
+
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VIKASIND/catuserbot)
+
+## Deploy to Railway
+<p><a href=https://github.com/VIKASIND/catuserbot
 
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
